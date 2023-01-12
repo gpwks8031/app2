@@ -1,0 +1,33 @@
+.container4 {
+  width: 100%;
+  margin: 100px auto;
+  position: relative;
+  display: block;
+  height: 450px;
+  background: url(../assets/images/bg.jpg) no-repeat center top;
+}
+.container4 p {
+  position: absolute;
+  width: 100%;
+  color: #fff;
+  font-size: 35px;
+  text-align: center;
+  padding-top: 160px;
+  display: block;
+  z-index: 1;
+}
+.container4 p a {
+  display: block;
+  width: 150px;
+  padding: 15px 5px 16px 5px;
+  text-align: center;
+  font-size: 17px;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  margin: 35px auto 0 auto;
+  border-radius: 5px 5px;
+  color: #fff;
+  transition: all 0.3s;
+}
+.container4 p a:hover {
+  background-color: rgba(255, 255, 255, 0.4);
+}

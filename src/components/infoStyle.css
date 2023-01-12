@@ -1,0 +1,58 @@
+.container7 {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background-color: #f5f5f5;
+  padding: 90px 0 95px 0;
+  margin-top: 90px;
+}
+.container7 ul {
+  width: 1000px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.container7 ul li {
+  float: left;
+  width: 25%;
+  border-left: 1px solid #dfdfdf;
+}
+.container7 ul .ico1 {
+  border: none;
+}
+.container7 ul .ico1 a {
+  background: url(../assets/images/ico1.png) no-repeat;
+  background-position: center 95%;
+}
+.container7 ul .ico2 a {
+  background: url(../assets/images/ico2.png) no-repeat;
+  background-position: center 95%;
+}
+.container7 ul .ico3 a {
+  background: url(../assets/images/ico3.png) no-repeat;
+  background-position: center 95%;
+}
+.container7 ul .ico4 a {
+  background: url(../assets/images/ico4.png) no-repeat;
+  background-position: center 95%;
+}
+.container7 ul li a {
+  display: block;
+  height: 200px;
+  text-align: center;
+  padding-top: 10px;
+  transition: all 0.3s;
+}
+.container7 ul li a:hover {
+  background-position: center 90%;
+}
+.container7 ul li .title {
+  display: block;
+  padding-bottom: 25px;
+  font-size: 20px;
+}
+.container7 ul li .txt {
+  display: block;
+  color: #888;
+  font-size: 16px;
+  line-height: 26px;
+}

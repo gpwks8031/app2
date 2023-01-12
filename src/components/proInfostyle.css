@@ -1,0 +1,33 @@
+.container5 {
+  text-align: center;
+  width: 100%;
+  padding: 0 0 35px 0;
+}
+.container5 h2 {
+  font-size: 33px;
+  letter-spacing: 10px;
+  color: #333;
+  font-weight: 600 !important;
+  position: relative;
+  text-align: center;
+  padding-bottom: 10px;
+  font-family: "Raleway", "Malgun Gothic", "Dotum", "Gulim,Helvetica",
+    "sans-serif" !important;
+}
+.container6 {
+  font-family: "Malgun Gothic", "Dotum", "Gulim,Helvetica", "sans-serif" !important;
+  display: grid;
+  grid-template-columns: repeat(3, 310px);
+  gap: 8px;
+  place-content: center;
+  text-align: center;
+}
+.container6 img {
+  width: 250px;
+}
+.container6 span {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  display: block;
+  font-size: 0.8em;
+}
